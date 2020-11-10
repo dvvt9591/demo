@@ -9,6 +9,16 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
-  }
+    "name": "dvvt9591"
+  },
+  "pcboards": [
+    { "title": "RaspPi-3B", "info": "Raspberry Pi 3B \nBatch: 1 \nBay: 3 \nSite: P1" },
+    { "title": "RaspPi-3B+", "info": "Raspberry Pi 3B+ \nBatch: 2 \nBay: 2 \nSite: P2" },
+    { "title": "RaspPi-4B", "info": "Raspberry Pi 4B \nBatch: 4 \nBay: 6 \nSite: P5" },
+    { "title": "PICO-IOBoard", "info": "PICO IO Board \nBatch: 5 \nBay: 1 \nSite: P3" },
+    { "title": "Arduino-UNO", "info": "Arduino UNO \nBatch: 3 \nBay: 9 \nSite: P1" },
+    { "title": "Arduino-Mega", "info": "Arduino Mega \nBatch: 6 \nBay: 5 \nSite: P6" },
+    { "title": "ES-Test", "info": "TestSample \nBatch: 9 \nBay: 8 \nSite: PG" },
+    { "title": "PolicyCard", "info": "TestSample2 \nBatch: 8 \nBay: 10 \nSite: PG-J" }
+  ]
 }
