@@ -11,7 +11,7 @@
   "profile": {
     "name": "dvvt9591"
   },
-  "pcboards": [
+  "pcbs": [
     { "title": "RaspPi-3B", "info": "Raspberry Pi 3B \nBatch: 1 \nBay: 3 \nSite: P1" },
     { "title": "RaspPi-3B+", "info": "Raspberry Pi 3B+ \nBatch: 2 \nBay: 2 \nSite: P2" },
     { "title": "RaspPi-4B", "info": "Raspberry Pi 4B \nBatch: 4 \nBay: 6 \nSite: P5" },
@@ -20,5 +20,15 @@
     { "title": "Arduino-Mega", "info": "Arduino Mega \nBatch: 6 \nBay: 5 \nSite: P6" },
     { "title": "ES-Test", "info": "TestSample \nBatch: 9 \nBay: 8 \nSite: PG" },
     { "title": "PolicyCard", "info": "TestSample2 \nBatch: 8 \nBay: 10 \nSite: PG-J" }
+  ],
+  "pcbDict": [
+    { "title": "RaspPi-3B", "info": "Raspberry Pi 3B", "batch": 1,  "bay": 3, "site": "P1" },
+    { "title": "RaspPi-3B+", "info": "Raspberry Pi 3B+", "batch": 2, "bay": 2,  "site": "P2" },
+    { "title": "RaspPi-4B", "info": "Raspberry Pi 4B", "batch": 4, "bay": 6, "site": "P5" },
+    { "title": "PICO-IOBoard", "info": "PICO IO Board", "batch": 5, "bay": 1, "site": "P3" },
+    { "title": "Arduino-UNO", "info": "Arduino UNO", "batch": 3, "bay": 9, "site": "P1" },
+    { "title": "Arduino-Mega", "info": "Arduino Mega", "batch": 6, "bay": 5, "site": "P6" },
+    { "title": "ES-Test", "info": "TestSample", "batch": 9, "bay": 8, "site": "PG" },
+    { "title": "PolicyCard", "info": "TestSample2", "batch": 8, "bay": 10, "site": "PG-J" }
   ]
 }
